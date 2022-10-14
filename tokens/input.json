@@ -8,5 +8,9 @@
   "blue-500": {
     "value": "#4c00ee",
     "type": "color"
+  },
+  "blue-600": {
+    "value": "#3b01b6",
+    "type": "color"
   }
 }
