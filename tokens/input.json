@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
+  "blue-500": {
+    "value": "#4c00ee",
+    "type": "color"
+  }
+}
