@@ -150,6 +150,10 @@ button,
 	padding-bottom: var(--xxl);
 }
 
+.margin-top {
+	margin-top: 96px;
+}
+
 .section-container {
 	margin-left: auto;
 	margin-right: auto;
@@ -225,6 +229,7 @@ button,
 .input-button {
 	display: flex;
 	gap: var(--xs);
+	margin-bottom: var(--big);
 }
 
 @media (max-width: 768px) {

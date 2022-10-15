@@ -145,11 +145,11 @@
     "value": "#ffffff14",
     "type": "color"
   },
-  "56px": {
+  "big": {
     "value": "56px",
     "type": "spacing"
   },
-  "96px": {
+  "biggest": {
     "value": "96px",
     "type": "spacing"
   }
