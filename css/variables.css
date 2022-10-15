@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 Oct 2022 07:55:38 GMT
+ * Generated on Sat, 15 Oct 2022 08:18:35 GMT
  */
 
 :root {
@@ -27,9 +27,11 @@
   --text-case-none: none;
   --text-decoration-none: none;
   --base: 4px;
-  --sm: 8px;
+  --xs: 8px;
+  --sm: 12px;
   --md: 16px;
   --lg: 24px;
   --xl: 32px;
   --xxl: 40px;
+  --rounded: 12px;
 }

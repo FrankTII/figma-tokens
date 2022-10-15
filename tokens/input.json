@@ -109,8 +109,12 @@
     "value": "4px",
     "type": "spacing"
   },
-  "sm": {
+  "xs": {
     "value": "8px",
+    "type": "spacing"
+  },
+  "sm": {
+    "value": "12px",
     "type": "spacing"
   },
   "md": {
@@ -128,5 +132,9 @@
   "xxl": {
     "value": "40px",
     "type": "spacing"
+  },
+  "rounded": {
+    "value": "12px",
+    "type": "borderRadius"
   }
 }

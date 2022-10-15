@@ -107,6 +107,9 @@ button,
 .mb-base {
 	margin-bottom: var(--base);
 }
+.mb-xs {
+	margin-bottom: var(--xs);
+}
 .mb-sm {
 	margin-bottom: var(--sm);
 }
@@ -126,6 +129,9 @@ button,
 
 .pb-base {
 	padding-bottom: var(--base);
+}
+.pb-xs {
+	padding-bottom: var(--xs);
 }
 .pb-sm {
 	padding-bottom: var(--sm);
@@ -167,7 +173,6 @@ button,
 	font-size: var(--font-size-desktop-title);
 	text-transform: var(--text-case-uppercase);
 	font-weight: var(--font-weights-extrabold);
-	padding-bottom: var(--md);
 	line-height: var(--line-heights-120);
 }
 
@@ -196,6 +201,8 @@ button,
 }
 
 .send-mail {
-	background: hsl(0, 0, 100, 5%);
-	padding: var(--md);
+	background: hsl(0, 0, 100% / 5%);
+	/* background: hsl(0, 0, 100% / 5%); */
+	padding: var(--sm);
+	border-radius: var(--sm);
 }
