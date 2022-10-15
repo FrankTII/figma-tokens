@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@800;900&display=swap');
+
 *,
 ::before,
 ::after {
@@ -70,9 +72,17 @@ hr {
 	}
 }
 
-.text-titles {
+.text-title {
 	color: var(--text-titles);
-	size: var(--font-size-56);
+	font-size: var(--font-size-desktop-title);
+	text-transform: var(--text-case-uppercase);
+	font-weight: var(--font-weights-extrabold);
+}
+
+@media (max-width: 768px) {
+	.text-title {
+		font-size: var(--font-size-mobile-title);
+	}
 }
 
 .bg-body {

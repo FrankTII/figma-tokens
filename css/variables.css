@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 Oct 2022 06:57:54 GMT
+ * Generated on Sat, 15 Oct 2022 07:26:27 GMT
  */
 
 :root {
@@ -17,9 +17,9 @@
   --font-weights-extrabold: extrabold;
   --font-weights-regular: regular;
   --font-weights-medium: medium;
-  --font-size-16: 16px;
-  --font-size-32: 32px;
-  --font-size-56: 56px;
+  --font-size-body: 16px;
+  --font-size-mobile-title: 32px;
+  --font-size-desktop-title: 56px;
   --letter-spacing-0: 0%;
   --paragraph-spacing-0: 0;
   --text-case-uppercase: uppercase;
