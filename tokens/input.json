@@ -10,7 +10,7 @@
     "type": "color"
   },
   "blue-500": {
-    "value": "#c414ac",
+    "value": "#7C4FFF",
     "type": "color"
   },
   "text-body": {
@@ -27,11 +27,11 @@
   },
   "fontFamilies": {
     "titles": {
-      "value": "Work Sans",
+      "value": "Hepta Slab",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Maven Pro",
+      "value": "Space Mono",
       "type": "fontFamilies"
     }
   },

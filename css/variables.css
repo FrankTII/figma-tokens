@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 Oct 2022 09:20:12 GMT
+ * Generated on Sat, 15 Oct 2022 09:34:08 GMT
  */
 
 :root {
   --token-set-order-0: global;
   --dark-800: #24242a;
-  --blue-500: #c414ac;
+  --blue-500: #7C4FFF;
   --text-body: #A2A2A5;
   --text-link: #c2c2c5;
   --text-titles: #ffffff;
-  --font-families-titles: Work Sans;
-  --font-families-body: Maven Pro;
+  --font-families-titles: Hepta Slab;
+  --font-families-body: Space Mono;
   --line-heights-120: 120%;
   --line-heights-160: 160%;
   --font-weights-black: 800;
