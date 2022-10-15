@@ -235,7 +235,7 @@ button {
 	padding-left: var(--md);
 	padding-right: var(--md);
 	border-radius: var(--sm);
-	color: var(--text-titles);
+	color: var(--text-button);
 	font-weight: var(--font-weights-bold);
 }
 
@@ -261,4 +261,8 @@ button {
 .links:hover {
 	color: var(--text-titles);
 	text-decoration: underline;
+}
+
+.text-button {
+	color: var(--text-button);
 }
