@@ -201,7 +201,7 @@ button,
 }
 
 .send-mail {
-	background: hsl(0, 0, 100% / 5%);
+	background: var(--transparent-5);
 	/* background: hsl(0, 0, 100% / 5%); */
 	padding: var(--sm);
 	border-radius: var(--sm);

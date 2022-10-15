@@ -136,5 +136,9 @@
   "rounded": {
     "value": "12px",
     "type": "borderRadius"
+  },
+  "transparent-5": {
+    "value": "#ffffff, 5%",
+    "type": "color"
   }
 }
