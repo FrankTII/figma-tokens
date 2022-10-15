@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 Oct 2022 08:39:09 GMT
+ * Generated on Sat, 15 Oct 2022 09:02:20 GMT
  */
 
 :root {
@@ -36,4 +36,6 @@
   --rounded: 12px;
   --transparent-5: #ffffff0d;
   --transparent-8: #ffffff14;
+  --56px: 56px;
+  --96px: 96px;
 }

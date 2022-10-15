@@ -144,5 +144,13 @@
   "transparent-8": {
     "value": "#ffffff14",
     "type": "color"
+  },
+  "56px": {
+    "value": "56px",
+    "type": "spacing"
+  },
+  "96px": {
+    "value": "96px",
+    "type": "spacing"
   }
 }
