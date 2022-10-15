@@ -43,19 +43,19 @@
   },
   "fontWeights": {
     "black": {
-      "value": "black",
+      "value": 800,
       "type": "fontWeights"
     },
     "extrabold": {
-      "value": "extrabold",
+      "value": 900,
       "type": "fontWeights"
     },
     "regular": {
-      "value": "regular",
+      "value": 400,
       "type": "fontWeights"
     },
-    "medium": {
-      "value": "medium",
+    "bold": {
+      "value": 700,
       "type": "fontWeights"
     }
   },

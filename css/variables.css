@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 Oct 2022 07:26:27 GMT
+ * Generated on Sat, 15 Oct 2022 07:39:36 GMT
  */
 
 :root {
@@ -13,10 +13,10 @@
   --font-families-body: Maven Pro;
   --line-heights-120: 120%;
   --line-heights-160: 160%;
-  --font-weights-black: black;
-  --font-weights-extrabold: extrabold;
-  --font-weights-regular: regular;
-  --font-weights-medium: medium;
+  --font-weights-black: 800;
+  --font-weights-extrabold: 900;
+  --font-weights-regular: 400;
+  --font-weights-bold: 700;
   --font-size-body: 16px;
   --font-size-mobile-title: 32px;
   --font-size-desktop-title: 56px;
