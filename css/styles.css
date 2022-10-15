@@ -201,8 +201,46 @@ button,
 }
 
 .send-mail {
-	background: var(--trasparente-5);
-	/* background: hsl(0, 0, 100% / 5%); */
-	padding: var(--sm);
+	background: var(--transparent-5);
+	border: 1.5px solid var(--transparent-8);
+	padding-top: var(--sm);
+	padding-bottom: var(--sm);
+	padding-left: var(--md);
+	padding-right: var(--md);
 	border-radius: var(--sm);
+	border-radius: var(--sm);
+}
+
+.button {
+	background: var(--blue-500);
+	padding-top: var(--sm);
+	padding-bottom: var(--sm);
+	padding-left: var(--md);
+	padding-right: var(--md);
+	border-radius: var(--sm);
+	color: var(--text-titles);
+	font-weight: var(--font-weights-bold);
+}
+
+.input-button {
+	display: flex;
+	gap: var(--xs);
+}
+
+@media (max-width: 768px) {
+	.input-button {
+		display: flex;
+		flex-direction: column;
+		gap: var(--xs);
+	}
+}
+
+.links {
+	color: var(--text-body);
+	padding-right: var(--lg);
+}
+
+.links:hover {
+	color: var(--text-titles);
+	text-decoration: underline;
 }
