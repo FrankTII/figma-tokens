@@ -1,10 +1,28 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 Oct 2022 23:37:19 GMT
+ * Generated on Sat, 15 Oct 2022 06:57:54 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --blue-500: #4c00ee;
-  --blue-600: #3b01b6;
+  --blue-500: #7c4fff;
+  --text-titles: #ffffff;
+  --text-link: #c2c2c5;
+  --dark-800: #24242a;
+  --font-families-titles: Work Sans;
+  --font-families-body: Maven Pro;
+  --line-heights-120: 120%;
+  --line-heights-160: 160%;
+  --font-weights-black: black;
+  --font-weights-extrabold: extrabold;
+  --font-weights-regular: regular;
+  --font-weights-medium: medium;
+  --font-size-16: 16px;
+  --font-size-32: 32px;
+  --font-size-56: 56px;
+  --letter-spacing-0: 0%;
+  --paragraph-spacing-0: 0;
+  --text-case-uppercase: uppercase;
+  --text-case-none: none;
+  --text-decoration-none: none;
 }
