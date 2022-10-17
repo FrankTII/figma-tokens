@@ -10,7 +10,7 @@
     "type": "color"
   },
   "blue-500": {
-    "value": "#1b28aa",
+    "value": "#7C4FFF",
     "type": "color"
   },
   "text-body": {
@@ -31,7 +31,7 @@
   },
   "fontFamilies": {
     "titles": {
-      "value": "Hepta Slab",
+      "value": "Work Sans",
       "type": "fontFamilies"
     },
     "body": {
