@@ -197,7 +197,7 @@ button {
 	color: var(--text-titles);
 	font-size: var(--font-size-body);
 	font-weight: var(--font-weights-extrabold);
-	padding-bottom: var(--md);
+	padding-bottom: var(--base);
 	line-height: var(--line-heights-120);
 }
 
